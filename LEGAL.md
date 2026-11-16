@@ -14,5 +14,6 @@ License (read from its license file on 2026-11-16): **Apache-2.0**. Original lic
 - What people make with the tool belongs to them; the tool's license does not cover its output.
 - No warranty beyond what the license says.
 
-## Parts NOT under the open license (left out of anything we offer)
-- `src/axolotl/integrations/cut_cross_entropy/LICENSE`
+
+## Bundled parts with their own terms
+- `src/axolotl/integrations/cut_cross_entropy/` is under Apple's sample-code license (redistribution allowed with its notice kept): keep the notice.
