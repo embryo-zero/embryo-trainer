@@ -1,0 +1,7 @@
+# Changes made by Embryo-Zero (Embryo Zero Backyard Data Center Corporation) to axolotl
+
+Forked from f2158ff (commit f2158ff) on 2026-11-16. All changes are on the `embryo` branch; `git log` has the full detail.
+
+| Date | Files | Change |
+|---|---|---|
+| 2026-11-16 | EMBRYO.md, LEGAL.md, CHANGES-EMBRYO.md (new) | Fork notes, legal notes and this list. No original file changed yet. |
